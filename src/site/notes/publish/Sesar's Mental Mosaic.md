@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/sesar-s-mental-mosaic/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
+{"dg-publish":true,"dg-path":"Sesar's Mental Mosaic.md","permalink":"/sesar-s-mental-mosaic/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
 ---
 
 
