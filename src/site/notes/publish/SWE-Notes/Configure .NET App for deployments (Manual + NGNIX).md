@@ -62,8 +62,8 @@ location / {
         proxy_set_header    X-Forwarded-Proto $scheme;
         proxy_hide_header   X-Powered-By;
 
-   		access_log /var/log/nginx/webifs.app.log;
-    	error_log /var/log/nginx/webifserror.log;
+   		access_log /var/log/nginx/<something>.app.log;
+    	error_log /var/log/nginx/<something>error.log;
     }
 }
 server {
@@ -109,8 +109,8 @@ server {
 	        proxy_set_header    X-Forwarded-Proto $scheme;
 	        proxy_hide_header   X-Powered-By;
 	
-	   		access_log /var/log/nginx/web_nasabah_kkb.app.log;
-	    	error_log /var/log/nginx/web_nasabah_kkb.log;
+	   		access_log /var/log/nginx/<something>.app.log;
+	    	error_log /var/log/nginx/<something>.log;
 	}
 	location /something-api/ {
 			proxy_pass http://localhost:2100/;
@@ -123,8 +123,8 @@ server {
 	        proxy_set_header    X-Forwarded-Proto $scheme;
 	        proxy_hide_header   X-Powered-By;
 	
-	   		access_log /var/log/nginx/apiforigr.app.log;
-	    	error_log /var/log/nginx/apiforigr.app.log;
+	   		access_log /var/log/nginx/<something>.app.log;
+	    	error_log /var/log/nginx/<something>.app.log;
 	}
 	location /enkripdekrip/ {
 			proxy_pass http://localhost:8895;
@@ -151,8 +151,8 @@ server {
 	        proxy_set_header    X-Forwarded-Proto $scheme;
 	        proxy_hide_header   X-Powered-By;
 	
-	   		access_log /var/log/nginx/web_heartbit_monitor.app.log;
-	    	error_log /var/log/nginx/web_heartbit_monitor.log;
+	   		access_log /var/log/nginx/<something>.app.log;
+	    	error_log /var/log/nginx/<something>.log;
 	}
 	location /web-something/ {
 			proxy_pass http://localhost:8889;
@@ -165,8 +165,8 @@ server {
 	        proxy_set_header    X-Forwarded-Proto $scheme;
 	        proxy_hide_header   X-Powered-By;
 	
-	   		access_log /var/log/nginx/web_nasabah_kkb.app.log;
-	    	error_log /var/log/nginx/web_nasabah_kkb.log;
+	   		access_log /var/log/nginx/<something>.app.log;
+	    	error_log /var/log/nginx/<something>.log;
 	}
 	location /email_notif/ {
 		proxy_pass http://localhost:3400;
