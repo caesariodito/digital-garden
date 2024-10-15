@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"SWE-Notes/Configure .NET App for deployments (Manual + NGNIX).md","permalink":"/swe-notes/configure-net-app-for-deployments-manual-ngnix/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
+{"dg-publish":true,"dg-path":"SWE-Notes/Configure .NET App for deployments (Manual + NGNIX).md","permalink":"/swe-notes/configure-net-app-for-deployments-manual-ngnix/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"default"}
 ---
 
 
