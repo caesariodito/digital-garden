@@ -4,7 +4,6 @@
 
 
 Tags: #simple #webscraping 
-Links: `none`
 Sources:
 - [nodriver](https://github.com/ultrafunkamsterdam/nodriver)
 
