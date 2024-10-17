@@ -5,7 +5,7 @@
 
 Tags: #moc
 Sources: 
-- [Zettelkasten overview](https://zettelkasten.de/overview/
+- [Zettelkasten overview](https://zettelkasten.de/overview/)
 
 ---
 
