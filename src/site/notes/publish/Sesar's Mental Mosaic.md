@@ -11,5 +11,7 @@ I hope readers not only gain insights and new perspectives but also experience a
 
 
 # Map of Content (MOC)
-- [[publish/ML Journey/Machine Learning Journey\|Machine Learning Journey]]
-- [[publish/Book Read Write/Books, reading and writing\|Books, reading and writing]]
+
+- [[publish/Progress/_Progress MOC\|_Progress MOC]]
+
+---
